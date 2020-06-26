@@ -1,0 +1,11 @@
+html {
+  background-color: rgb(216, 198, 174);
+  padding: 0.5em 1em;
+
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  color: brown;
+  text-align: center;
+  text-shadow: rgb(202, 172, 177);
+}
